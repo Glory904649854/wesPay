@@ -1,0 +1,19 @@
+{
+	"PaymentConfig":{
+		"Configs":[{
+			"Name":"GXSC_WX_WEB",
+			"Type":"WX",
+			"WX_MCH_ID":"1502172771",
+			"WxSercet":"e9879467a51c869366e83d0ec719397e",
+			"WxKey":"1a02c039203af901b85d1d3b07acdbbf",
+			"WxApplicationSercet":"a62c0a550de46adcabaa26ffa2683b72",
+			"WxApplicationKey":"wxfa44305b92eeb4d9"
+		},{
+			"Name":"GXSC_WX_APPLICATION",
+			"Type":"WX",
+			"WX_MCH_ID":"1502172771",
+			"WX_ID":"wxfa44305b92eeb4d9",
+			"WX_KEY":"1a02c039203af901b85d1d3b07acdbbf"
+		}]
+	}
+}
